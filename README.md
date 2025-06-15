@@ -8,7 +8,7 @@ A [Starship](https://starship.rs/) Prompt Theme, fitting seamlessly with other D
 The Dark Orchid Theme is a cohesive visual ecosystem built around the striking color purple. Centered on the rich Dark Orchid shade, it highlights purple's depth, creativity, and elegance. Through balanced contrasts and unified tones, the theme creates a bold yet harmonious aesthetic that stands out across any design.
 
 ## Usage
-1. Copy the palette from [`theme.toml`](./theme.toml) into your [Starship configuration file](https://starship.rs/config/).
+1. Copy the palette from [`dark_orchid.toml`](./dark_orchid.toml) into your [Starship configuration file](https://starship.rs/config/).
 2. Add `palette = "dark_orchid"` near the top of your config — palette tables must be defined below this line.
 3. Save the file and reload your prompt.
 
